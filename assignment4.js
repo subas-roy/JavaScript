@@ -67,7 +67,7 @@ function monthlySavings(arr , livingCost) {
        }
     }
     let monthly = savings - livingCost
-    if(monthly < 0){
+    if(monthly < 0) {
         return 'earn more'
     }
     else {
