@@ -31,3 +31,4 @@ function doubleThem(a, b) {
 
 const [a, b] = doubleThem(6, 9)
 console.log(a, b)
+
