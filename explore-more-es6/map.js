@@ -36,6 +36,7 @@ const halfs = numbers.map(n => n / 2)
 const friends = ['karim', 'anik', 'angad']
 const nameLen = friends.map(x => x.length);
 
+
 console.log(nameLen);
 
 
