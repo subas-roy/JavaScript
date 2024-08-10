@@ -24,3 +24,6 @@ class Truck extends Vehicle{
     this.load = load;
   }
 }
+
+truck1 = new Truck('Manindra', 150000, 100);
+console.log(truck1.name)
