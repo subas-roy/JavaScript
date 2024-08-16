@@ -12,7 +12,7 @@ const myLoader = () => {
 
 // call myLoader() in browser console
 
-// call the promise 
+// call the promise
 myLoader()
 .then(data => console.log('resolved with', data))
 .catch(error => console.log('rejected with', error))
